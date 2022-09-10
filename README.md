@@ -1,4 +1,4 @@
-- Hi,I'm Licht,digital designer in Japan.
+- Hi,I'm Licht,SE in Japan.
 - I can speak Japanese, English, ane little bit Germany.
 - I leaved in German 2 years.
 - Now, I leave in Japan🗾.
@@ -7,7 +7,7 @@
 - My tool:VScode, Ubuntu, illustrator, Affinity etc...
 
 油井 陽輝です。
-現在、デジタルデザイナー兼デベロッパーを目指して勉強中
+現在、クラウドとアプリケーションの開発業務に携わっております。
 海外(ドイツ)に２年間渡航歴あり
 主な言語はJavaScript系列とRuby、好きなワークフレームはNextjs, Rails, Express
 まだまだ、至らないことがたくさんありますが頑張ります。
